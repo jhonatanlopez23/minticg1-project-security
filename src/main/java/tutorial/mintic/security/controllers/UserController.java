@@ -152,7 +152,6 @@ class AuthInfo {
         } catch (NullPointerException e) {
             return false;
         }
-
     }
 
     public String getUsername() {
