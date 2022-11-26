@@ -11,9 +11,10 @@ public class Permission {
     private String _id;
     private String url; /*/users*/
     private String method; /*POST*/
-/*
+
+
     public Permission(String url, String method) {
         this.url = url;
         this.method = method;
-    }*/
+    }
 }
